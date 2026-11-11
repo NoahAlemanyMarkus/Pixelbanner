@@ -1,6 +1,6 @@
 # Pixelbanner
 
-My pixel-art title banner pulled from my latest project. No images, no libraries, all done within the file with fillRect. Feel free to use it as I thnk it looks nice! 
+My pixel-art title banner pulled from my latest project. No images, no libraries, all done within the file with fillRect. Feel free to use it as I think it looks nice! 
 
 ```js
 const banner = makeFrame(104, 28)   // build the sign once
