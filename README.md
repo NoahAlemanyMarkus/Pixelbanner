@@ -8,7 +8,7 @@ drawFrame(ctx, banner, 140, 30, 5)  // draw it, scaled up 5x
 drawWaveText(ctx, 'BANNER', 260, 70, 8, '#3b2a20', t) // t = frame count
 ```
 
-Open EXAMPLE to see it.
+Open `EXAMPLE` to see it.
 
 ## How it works
 
